@@ -12,7 +12,6 @@
   <a href="./BLUEPRINT.md">Blueprint v0.2</a> ·
   <a href="#quick-start">Quick Start</a> ·
   <a href="#examples">Examples</a> ·
-  <a href="https://www.wozalabs.com">Woza Labs</a>
 </p>
 
 ---
